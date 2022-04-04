@@ -1,0 +1,21 @@
+Relational databases:
+  1. MySQL
+  2. MariaDB
+  3. SQLite
+  4. Oracle Database
+  5. PostgreSQL
+  6. Microsoft SQL Server
+
+NoSQL databases by categories:
+  1. Key-Valuse stores -> Redis, Memcached
+  2. Document databases -> Apache Casandra, Apache HBase
+  3. Columnar Databases -> DynomoDB, MongoDB 
+  4. Graph Databases -> neo4j, DGraph
+
+In-memory databases:
+  1. Redis
+  2. Microsoft SQL Server
+  
+In-memory databases vs. persistent
+- An in-memory database system is a database management system that stores data entirely in main memory. 
+Persistent/on-disk database management system (the traditional) is designed to store data in the form of records or tables.
